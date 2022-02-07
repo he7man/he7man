@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @he7man
+- 👀 I’m interested in  Programing
+- 🌱 I’m currently learning C++
+-
